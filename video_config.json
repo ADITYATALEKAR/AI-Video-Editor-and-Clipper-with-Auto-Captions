@@ -1,0 +1,21 @@
+{
+    "video_settings": {
+        "clip_duration": 12,
+        "overlap_seconds": 2,
+        "max_clips": 20,
+        "output_resolution": "1080:1920",
+        "video_quality": 18
+    },
+    "caption_settings": {
+        "font_size": 24,
+        "font_color": "white",
+        "outline_color": "black",
+        "outline_width": 2,
+        "enable_captions": true
+    },
+    "output_settings": {
+        "create_thumbnails": true,
+        "output_format": "mp4",
+        "preserve_audio": true
+    }
+}
